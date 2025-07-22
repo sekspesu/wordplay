@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Õpi uusi sõnu - Estonian Word Learner</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="top-bar">
+    <div class="logo" id="logo">SÕNASNOB</div>
+    <div class="score-badge">🏆 <span id="score-header">0</span> punkti</div>
+  </header>
+  <div class="container">
+    <div id="start-screen">
+      <h1>Õpime uusi võõrsõnu</h1>
+      <button id="play-button">Mängi</button>
+    </div>
+
+    <div id="game-screen" class="hidden">
+      <div id="score"></div>
+      <h2 id="word"></h2>
+      <div id="options"></div>
+      <p id="feedback"></p>
+      <button id="next-button" class="hidden">Järgmine</button>
+    </div>
+
+    <div id="end-screen" class="hidden">
+      <h2>Tulemused</h2>
+      <p>Lõppskoor: <span id="final-score"></span></p>
+      <button id="restart-button">Teen teise vooru</button>
+      <button id="tomorrow-button">Näeme homme</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html> 
