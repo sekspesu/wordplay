@@ -1,22 +1,83 @@
 [
-  {
-    "word": "heroiseerima",
-    "definition": "kangelaseks tõstma või kangelasena ülistama"
-  },
-  {
-    "word": "devalveerima",
-    "definition": "vähendama raha ametlikku kurssi; langetama valuuta väärtust"
-  },
-  {
-    "word": "formaliseerima",
-    "definition": "viima kindlasse vormi või vormistama ametlikult"
-  },
-  {
-    "word": "digitaliseerima",
-    "definition": "muutma digitaalseks või teisendama digitaalsesse vormingusse"
-  },
-  {
-    "word": "prioriseerima",
-    "definition": "seadma ülesandeid tähtsuse järgi; panema järjekorda tähtsuse alusel"
-  }
-] 
+    {
+      "word": "analüüsima",
+      "definition": "andmeid või nähtusi süsteemselt uurima, et järeldusi teha"
+    },
+    {
+      "word": "prognoosima",
+      "definition": "ette ennustama või tulevikku ennustavat hinnangut andma olemasolevate andmete põhjal"
+    },
+    {
+      "word": "organiseerima",
+      "definition": "korraldama ja süsteemselt paika panema tegevusi või ressursse"
+    },
+    {
+      "word": "motiveerima",
+      "definition": "kedagi tegutsema innustama või tema tegutsemistahet suurendama"
+    },
+    {
+      "word": "renoveerima",
+      "definition": "põhjalikult parandama või ajakohastama (nt hoonet või eset)"
+    },
+    {
+      "word": "stabiliseerima",
+      "definition": "muutma püsivaks ja tasakaalus olekuks; kõikumisi vähendama"
+    },
+    {
+      "word": "konsulteerima",
+      "definition": "nõu pidama või professionaalset nõu küsima"
+    },
+    {
+      "word": "illustreerima",
+      "definition": "piltide, näidete või selgitustega täiendama ja selgemaks tegema"
+    },
+    {
+      "word": "kompenseerima",
+      "definition": "kahju või puudujäägi hüvitama; tasakaalustama"
+    },
+    {
+      "word": "demonstreerima",
+      "definition": "midagi näitama või esitlema, tihti avalikult"
+    },
+    {
+      "word": "interpreteerima",
+      "definition": "tõlgendama või omal moel seletama teksti, muusikat vms"
+    },
+    {
+      "word": "modereerima",
+      "definition": "arutelu, koosoleku või vestluse kulgu juhatama"
+    },
+    {
+      "word": "adapteerima",
+      "definition": "kohandama midagi uutele tingimustele või vajadustele"
+    },
+    {
+      "word": "registreerima",
+      "definition": "ametlikult kirja panema või nimekirja kandma"
+    },
+    {
+      "word": "investeerima",
+      "definition": "raha või muid ressursse paigutama tulu teenimise eesmärgil"
+    },
+    {
+      "word": "improviseerima",
+      "definition": "lähteplaanita hetkelisi ideid kasutades looma või tegutsema"
+    },
+    {
+      "word": "filtreerima",
+      "definition": "eraldama soovimatuid osakesi ainest või infot selekteerima"
+    },
+    {
+      "word": "kategoriseerima",
+      "definition": "objekte või andmeid rühmadesse jagama kindla süsteemi järgi"
+    },
+    {
+      "word": "aktualiseerima",
+      "definition": "muutma millekski aktuaalseks või päevakohaseks; esile tõstma"
+    },
+    {
+      "word": "visualiseerima",
+      "definition": "muutma midagi nähtavaks pildina või graafilisel kujul esitama"
+    }
+  ]
+  
