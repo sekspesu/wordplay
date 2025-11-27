@@ -1,38 +1,73 @@
-# Estonian Word Learner
+# React + TypeScript + Vite
 
-This is a tiny, mobile-friendly web app for learning new (often foreign-origin) Estonian words.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Running Locally
+Currently, two official plugins are available:
 
-1. Clone or download this repository.
-2. Because modern browsers block `fetch()` from accessing local files directly, **serve** the project via a small http server. Two quick options:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
+## React Compiler
 
-   # Using Node (if installed)
-   npx serve .
-   ```
-3. Open your browser at `http://localhost:8000` (or the port you chose).
-4. Press **Mängi** and start learning!
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Project Files
+## Expanding the ESLint configuration
 
-- `index.html` – main page and UI skeleton
-- `styles.css` – responsive styling
-- `script.js` – game logic (loading words, scoring, navigation)
-- `words.json` – list of words & definitions (easy to extend!)
+If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
-## Adding More Words
+```js
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
 
-Just append new objects to `words.json` using the same structure:
+      // Remove tseslint.configs.recommended and replace with this
+      tseslint.configs.recommendedTypeChecked,
+      // Alternatively, use this for stricter rules
+      tseslint.configs.strictTypeChecked,
+      // Optionally, add this for stylistic rules
+      tseslint.configs.stylisticTypeChecked,
 
-```json
-{
-  "word": "demokratiseerima",
-  "definition": "muutma demokraatlikumaks või laiemale rahvahulgale kättesaadavaks"
-}
+      // Other configs...
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
 
-Happy learning! 🇪🇪 
+You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+
+```js
+// eslint.config.js
+import reactX from 'eslint-plugin-react-x'
+import reactDom from 'eslint-plugin-react-dom'
+
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+      // Enable lint rules for React
+      reactX.configs['recommended-typescript'],
+      // Enable lint rules for React DOM
+      reactDom.configs.recommended,
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
+```
