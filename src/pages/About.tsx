@@ -12,16 +12,16 @@ export const About = () => {
 
             <Card className="w-full max-w-md p-6 md:p-8 space-y-6">
                 <div>
-                    <h2 className="text-xl font-bold text-slate-900 mb-2">Mis on Sõnasnob?</h2>
-                    <p className="text-slate-600 leading-relaxed">
+                    <h2 className="text-xl font-bold text-white mb-2">Mis on Sõnasnob?</h2>
+                    <p className="text-white/70 leading-relaxed">
                         Sõnasnob on interaktiivne keeleõppe rakendus, mis aitab sul rikastada oma sõnavara põnevate võõrsõnadega.
                         Meie eesmärk on muuta õppimine mänguliseks ja nauditavaks.
                     </p>
                 </div>
 
                 <div>
-                    <h2 className="text-xl font-bold text-slate-900 mb-2">Kuidas mängida?</h2>
-                    <ul className="space-y-2 text-slate-600 list-disc list-inside">
+                    <h2 className="text-xl font-bold text-white mb-2">Kuidas mängida?</h2>
+                    <ul className="space-y-2 text-white/70 list-disc list-inside">
                         <li>Sulle näidatakse ühte sõna.</li>
                         <li>Vali kolme variandi hulgast õige tähendus.</li>
                         <li>Kogu punkte ja jõua edetabeli tippu!</li>
@@ -29,8 +29,8 @@ export const About = () => {
                     </ul>
                 </div>
 
-                <div className="pt-4 border-t border-slate-100">
-                    <p className="text-sm text-slate-400 text-center">
+                <div className="pt-4 border-t border-white/10">
+                    <p className="text-sm text-white/40 text-center">
                         Versioon 2.0 • Tehtud armastusega Eestis 🇪🇪
                     </p>
                 </div>

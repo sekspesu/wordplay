@@ -6,18 +6,7 @@ import { Navbar } from '../components/Layout/Navbar';
 import type { LeaderboardEntry } from '../types';
 import { clsx } from 'clsx';
 
-const MOCK_DATA: LeaderboardEntry[] = [
-    { name: 'KeeleGeenius', score: 98, date: '2023-11-26' },
-    { name: 'SõnaMeister', score: 95, date: '2023-11-25' },
-    { name: 'Eesti_Ekspert', score: 92, date: '2023-11-27' },
-    { name: 'Algaja_123', score: 88, date: '2023-11-24' },
-    { name: 'TubliÕpilane', score: 85, date: '2023-11-26' },
-    { name: 'Võõrsõna_Fan', score: 82, date: '2023-11-23' },
-    { name: 'GrammatikaGuru', score: 79, date: '2023-11-25' },
-    { name: 'Koolilaps', score: 75, date: '2023-11-27' },
-    { name: 'Tarkpea', score: 72, date: '2023-11-22' },
-    { name: 'Lugemiskoer', score: 68, date: '2023-11-26' },
-];
+const MOCK_DATA: LeaderboardEntry[] = [];
 
 export const Leaderboard = () => {
     const [scores, setScores] = useState<LeaderboardEntry[]>([]);

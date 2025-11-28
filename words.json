@@ -1,430 +1,802 @@
 [
   {
-    "word": "analüüsima",
+    "word": "Analüüsima",
     "definition": "Midagi üksikasjalikult uurima ja osadeks jagama."
   },
   {
-    "word": "prognoosima",
+    "word": "Prognoosima",
     "definition": "Tulevikku ette ennustama."
   },
   {
-    "word": "organiseerima",
+    "word": "Organiseerima",
     "definition": "Asju või tegevusi süsteemselt korraldama."
   },
   {
-    "word": "motiveerima",
+    "word": "Motiveerima",
     "definition": "Kedagi innustama või tegutsema panema."
   },
   {
-    "word": "renoveerima",
+    "word": "Renoveerima",
     "definition": "põhjalikult parandama või ajakohastama (nt hoonet või eset)"
   },
   {
-    "word": "stabiliseerima",
+    "word": "Stabiliseerima",
     "definition": "muutma püsivaks ja tasakaalus olekuks; kõikumisi vähendama"
   },
   {
-    "word": "konsulteerima",
+    "word": "Konsulteerima",
     "definition": "nõu pidama või professionaalset nõu küsima"
   },
   {
-    "word": "illustreerima",
+    "word": "Illustreerima",
     "definition": "Piltide, näidete või selgitustega täiendama ja selgemaks tegema."
   },
   {
-    "word": "kompenseerima",
+    "word": "Kompenseerima",
     "definition": "Kahju või puudujäägi hüvitama; tasakaalustama."
   },
   {
-    "word": "demonstreerima",
+    "word": "Demonstreerima",
     "definition": "Midagi näitama või esitlema, tihti avalikult."
   },
   {
-    "word": "interpreteerima",
+    "word": "Interpreteerima",
     "definition": "Midagi omal viisil selgitama või tõlgendama."
   },
   {
-    "word": "modereerima",
+    "word": "Modereerima",
     "definition": "arutelu, koosoleku või vestluse kulgu juhatama"
   },
   {
-    "word": "adapteerima",
+    "word": "Adapteerima",
     "definition": "kohandama midagi uutele tingimustele või vajadustele"
   },
   {
-    "word": "registreerima",
+    "word": "Registreerima",
     "definition": "ametlikult kirja panema või nimekirja kandma"
   },
   {
-    "word": "investeerima",
+    "word": "Investeerima",
     "definition": "Raha või ressursse kuhugi paigutama kasu saamiseks."
   },
   {
-    "word": "improviseerima",
+    "word": "Improviseerima",
     "definition": "lähteplaanita hetkelisi ideid kasutades looma või tegutsema"
   },
   {
-    "word": "filtreerima",
+    "word": "Filtreerima",
     "definition": "eraldama soovimatuid osakesi ainest või infot selekteerima"
   },
   {
-    "word": "kategoriseerima",
+    "word": "Kategoriseerima",
     "definition": "Asju või mõtteid rühmadesse jagama."
   },
   {
-    "word": "aktualiseerima",
+    "word": "Aktualiseerima",
     "definition": "muutma millekski aktuaalseks või päevakohaseks; esile tõstma"
   },
   {
-    "word": "visualiseerima",
+    "word": "Visualiseerima",
     "definition": "muutma midagi nähtavaks pildina või graafilisel kujul esitama"
   },
   {
-    "word": "aktsepteerima",
+    "word": "Aktsepteerima",
     "definition": "Midagi heaks kiitma või vastu võtma."
   },
   {
-    "word": "täpsustama",
+    "word": "Täpsustama",
     "definition": "Midagi konkreetsemaks või selgemaks tegema."
   },
   {
-    "word": "definitsioon",
+    "word": "Definitsioon",
     "definition": "Mõiste täpne selgitus või tähendus."
   },
   {
-    "word": "domineerima",
+    "word": "Domineerima",
     "definition": "Ülekaalus olema või kellelegi/millelegi mõju avaldama."
   },
   {
-    "word": "deklareerima",
+    "word": "Deklareerima",
     "definition": "Midagi ametlikult teatavaks tegema."
   },
   {
-    "word": "delegeerima",
+    "word": "Delegeerima",
     "definition": "Ülesandeid või vastutust kellelegi teisele üle andma."
   },
   {
-    "word": "diagnoosima",
+    "word": "Diagnoosima",
     "definition": "Haigust või probleemi kindlaks määrama."
   },
   {
-    "word": "distsipliin",
+    "word": "Distsipliin",
     "definition": "Korra ja reeglite järgimine; teadusharu."
   },
   {
-    "word": "emotsioon",
+    "word": "Emotsioon",
     "definition": "Tunne või tundmus, nagu rõõm, viha, kurbus."
   },
   {
-    "word": "fokuseerima",
+    "word": "Fokuseerima",
     "definition": "Keskenduma konkreetsele tegevusele või eesmärgile."
   },
   {
-    "word": "formeerima",
+    "word": "Formeerima",
     "definition": "Moodustama või kujundama."
   },
   {
-    "word": "genereerima",
+    "word": "Genereerima",
     "definition": "Midagi tekitama või tootma."
   },
   {
-    "word": "graduaalne",
+    "word": "Graduaalne",
     "definition": "Aeglane ja järk-järguline muutus."
   },
   {
-    "word": "harmoonia",
+    "word": "Harmoonia",
     "definition": "Tasakaal või kooskõla osade vahel."
   },
   {
-    "word": "idealiseerima",
+    "word": "Idealiseerima",
     "definition": "Midagi liiga positiivselt või täiuslikult nägema."
   },
   {
-    "word": "identifitseerima",
+    "word": "Identifitseerima",
     "definition": "Kellegi või millegi kindlaks määramine."
   },
   {
-    "word": "illegaalne",
+    "word": "Illegaalne",
     "definition": "Seadusega vastuolus; ebaseaduslik."
   },
   {
-    "word": "illusioon",
+    "word": "Illusioon",
     "definition": "Ekslik ettekujutus või pettekujutelm."
   },
   {
-    "word": "imiteerima",
+    "word": "Imiteerima",
     "definition": "Järele tegema või matkima."
   },
   {
-    "word": "individuaalne",
+    "word": "Individuaalne",
     "definition": "Igaühele eraldi omane; isikupärane."
   },
   {
-    "word": "informatsioon",
+    "word": "Informatsioon",
     "definition": "Andmed, teadmised või teated."
   },
   {
-    "word": "inspireerima",
+    "word": "Inspireerima",
     "definition": "Kedagi innustama või motiveerima."
   },
   {
-    "word": "integreerima",
+    "word": "Integreerima",
     "definition": "Ühendama eri osad ühtseks tervikuks."
   },
   {
-    "word": "intuitsioon",
+    "word": "Intuitsioon",
     "definition": "Tunne, mis aitab otsustada ilma loogilise mõtlemiseta."
   },
   {
-    "word": "kalkuleerima",
+    "word": "Kalkuleerima",
     "definition": "Midagi arvutama või hinnangut tegema."
   },
   {
-    "word": "kompetents",
+    "word": "Kompetents",
     "definition": "Teadmised ja oskused kindlas valdkonnas."
   },
   {
-    "word": "konkreetne",
+    "word": "Konkreetne",
     "definition": "Selgelt määratletud ja täpne."
   },
   {
-    "word": "konstruktiivne",
+    "word": "Konstruktiivne",
     "definition": "Edasi aitav, arendav või ülesehitav."
   },
   {
-    "word": "kontrast",
+    "word": "Kontrast",
     "definition": "Eristuv erinevus kahe asja vahel."
   },
   {
-    "word": "korrigeerima",
+    "word": "Korrigeerima",
     "definition": "Vigu parandama või midagi kohandama."
   },
   {
-    "word": "kriteerium",
+    "word": "Kriteerium",
     "definition": "Tingimus või mõõdupuu hindamiseks."
   },
   {
-    "word": "kvaliteet",
+    "word": "Kvaliteet",
     "definition": "Asja omaduste tase või väärtus."
   },
   {
-    "word": "legitiimne",
+    "word": "Legitiimne",
     "definition": "Õiguspärane ja lubatud."
   },
   {
-    "word": "loogiline",
+    "word": "Loogiline",
     "definition": "Mõistuspärane ja arusaadav."
   },
   {
-    "word": "mõtestama",
+    "word": "Mõtestama",
     "definition": "Midagi tähendusrikkaks või arusaadavaks tegema."
   },
   {
-    "word": "neutraalne",
+    "word": "Neutraalne",
     "definition": "Võtmata poolt; erapooletu."
   },
   {
-    "word": "objektiivne",
+    "word": "Objektiivne",
     "definition": "Ilma isiklike tunneteta, faktiline."
   },
   {
-    "word": "optimaalne",
+    "word": "Optimaalne",
     "definition": "Parim võimalik olukord või lahendus."
   },
   {
-    "word": "paralleelne",
+    "word": "Paralleelne",
     "definition": "Kõrvuti kulgev või samaaegne."
   },
   {
-    "word": "perspektiiv",
+    "word": "Perspektiiv",
     "definition": "Vaatenurk või tuleviku võimalus."
   },
   {
-    "word": "pretsedent",
+    "word": "Pretsedent",
     "definition": "Varem toimunud näide või olukord."
   },
   {
-    "word": "projekteerima",
+    "word": "Projekteerima",
     "definition": "Midagi kavandama või plaani järgi looma."
   },
   {
-    "word": "ratsionaalne",
+    "word": "Ratsionaalne",
     "definition": "Mõistuspärane ja loogiline."
   },
   {
-    "word": "reaalne",
+    "word": "Reaalne",
     "definition": "Tõeline ja tegelik."
   },
   {
-    "word": "relevantne",
+    "word": "Relevantne",
     "definition": "Oluline ja asjakohane."
   },
   {
-    "word": "simuleerima",
+    "word": "Simuleerima",
     "definition": "Järele tegema või olukorda virtuaalselt looma."
   },
   {
-    "word": "siseloogika",
+    "word": "Siseloogika",
     "definition": "Süsteemi või tegevuse enda sisemine loogiline struktuur."
   },
   {
-    "word": "situatsioon",
+    "word": "Situatsioon",
     "definition": "Olukord või seis."
   },
   {
-    "word": "spekulatsioon",
+    "word": "Spekulatsioon",
     "definition": "Oletus või ebakindel hinnang."
   },
   {
-    "word": "spetsialist",
+    "word": "Spetsialist",
     "definition": "Asjatundja kindlas valdkonnas."
   },
   {
-    "word": "standardne",
+    "word": "Standardne",
     "definition": "Normile vastav või tavapärane."
   },
   {
-    "word": "strateegia",
+    "word": "Strateegia",
     "definition": "Pikaajaline tegevuskava eesmärgi saavutamiseks."
   },
   {
-    "word": "struktuur",
+    "word": "Struktuur",
     "definition": "Ülesehitus või sisemine korraldus."
   },
   {
-    "word": "sümptom",
+    "word": "Sümptom",
     "definition": "Tunnus või ilming, eriti haiguse korral."
   },
   {
-    "word": "süsteem",
+    "word": "Süsteem",
     "definition": "Omakas omavahel seotud elementide tervik."
   },
   {
-    "word": "teoreetiline",
+    "word": "Teoreetiline",
     "definition": "Teoorial põhinev, mitte praktiline."
   },
   {
-    "word": "termin",
+    "word": "Termin",
     "definition": "Konkreetse valdkonna erialasõna."
   },
   {
-    "word": "tolereerima",
+    "word": "Tolereerima",
     "definition": "Midagi taluma või lubama."
   },
   {
-    "word": "tõkestama",
+    "word": "Tõkestama",
     "definition": "Midagi takistama või peatama."
   },
   {
-    "word": "vaakum",
+    "word": "Vaakum",
     "definition": "Õhu või muu aine puudumine."
   },
   {
-    "word": "variatsioon",
+    "word": "Variatsioon",
     "definition": "Erinevus või muutus mingis mustris."
   },
   {
-    "word": "versioon",
+    "word": "Versioon",
     "definition": "Kindel kuju või variant millestki."
   },
   {
-    "word": "visioon",
+    "word": "Visioon",
     "definition": "Tuleviku kujutlus või eesmärk."
   },
   {
-    "word": "visuaalne",
+    "word": "Visuaalne",
     "definition": "Nähtav või pildiline."
   },
   {
-    "word": "volumeetriline",
+    "word": "Volumeetriline",
     "definition": "Mahuline või ruumiline."
   },
   {
-    "word": "vulgaarne",
+    "word": "Vulgaarne",
     "definition": "Labane või ebaviisakas."
   },
   {
-    "word": "anonüümne",
+    "word": "Anonüümne",
     "definition": "Ilma nime või isikut tuvastamata."
   },
   {
-    "word": "abstraktne",
+    "word": "Abstraktne",
     "definition": "Mitte konkreetne; mõtteline."
   },
   {
-    "word": "arhitektuur",
+    "word": "Arhitektuur",
     "definition": "Hoonete või süsteemide ehitus ja kujundus."
   },
   {
-    "word": "autoriteet",
+    "word": "Autoriteet",
     "definition": "Inimene või asutus, keda väga usaldatakse."
   },
   {
-    "word": "diagramm",
+    "word": "Diagramm",
     "definition": "Andmete graafiline kujutis."
   },
   {
-    "word": "dilemma",
+    "word": "Dilemma",
     "definition": "Raske valik kahe võimaluse vahel."
   },
   {
-    "word": "filosoofia",
+    "word": "Filosoofia",
     "definition": "Õpetus maailma ja inimese olemusest."
   },
   {
-    "word": "funktsioon",
+    "word": "Funktsioon",
     "definition": "Eesmärk või ülesanne, mida miski täidab."
   },
   {
-    "word": "hinnang",
+    "word": "Hinnang",
     "definition": "Kellegi või millegi kohta antud arvamus."
   },
   {
-    "word": "inflatsioon",
+    "word": "Inflatsioon",
     "definition": "Hindade üldine tõus majanduses."
   },
   {
-    "word": "kontekst",
+    "word": "Kontekst",
     "definition": "Taust või olukord, milles midagi aset leiab."
   },
   {
-    "word": "korrelatsioon",
+    "word": "Korrelatsioon",
     "definition": "Seos kahe nähtuse või andme vahel."
   },
   {
-    "word": "metoodika",
+    "word": "Metoodika",
     "definition": "Kindel meetodite kogum töö tegemiseks."
   },
   {
-    "word": "paradoks",
+    "word": "Paradoks",
     "definition": "Näiliselt vastuoluline, kuid tõsi nähtus."
   },
   {
-    "word": "prioriteet",
+    "word": "Prioriteet",
     "definition": "Olulisuse järjekorras esimene asi."
   },
   {
-    "word": "protsent",
+    "word": "Protsent",
     "definition": "Sajaosa."
   },
   {
-    "word": "ressurss",
+    "word": "Ressurss",
     "definition": "Vahend, mida saab kasutada millegi saavutamiseks."
   },
   {
-    "word": "tendents",
+    "word": "Tendents",
     "definition": "Suunasus või arengu kulg."
   },
   {
-    "word": "tolerantsus",
+    "word": "Tolerantsus",
     "definition": "Teistsuguse aktsepteerimine."
   },
   {
-    "word": "trauma",
+    "word": "Trauma",
     "definition": "Kehaline või vaimne vigastus."
   },
   {
-    "word": "ühtsus",
+    "word": "Ühtsus",
     "definition": "Koostoime või kokkukuuluvus."
+  },
+  {
+    "word": "Akadeemiline",
+    "definition": "Õppe- ja teadustööga seotud."
+  },
+  {
+    "word": "Aktuaalne",
+    "definition": "Praegu oluline või päevakajaline."
+  },
+  {
+    "word": "Alternatiiv",
+    "definition": "Teine võimalus või valik."
+  },
+  {
+    "word": "Ambitsioon",
+    "definition": "Eesmärk või soov kõrgele jõuda."
+  },
+  {
+    "word": "Anonüümsus",
+    "definition": "Nimelisuse puudumine."
+  },
+  {
+    "word": "Aplaus",
+    "definition": "Käteplaksutamine heakskiidu märgiks."
+  },
+  {
+    "word": "Argument",
+    "definition": "Põhjendus või tõend."
+  },
+  {
+    "word": "Atmosfäär",
+    "definition": "Õhkkond või meeleolu."
+  },
+  {
+    "word": "Autentne",
+    "definition": "Originaalne ja ehtne."
+  },
+  {
+    "word": "Automaatne",
+    "definition": "Ise toimiv, ilma vahelesekkumiseta."
+  },
+  {
+    "word": "Bürookraatia",
+    "definition": "Ametlik ja keerukas asjaajamine."
+  },
+  {
+    "word": "Dedikatsioon",
+    "definition": "Pühendumine või siiras panus."
+  },
+  {
+    "word": "Deformatsioon",
+    "definition": "Kujumuutus surve või jõu mõjul."
+  },
+  {
+    "word": "Delirium",
+    "definition": "Segadusseisund hallutsinatsioonidega."
+  },
+  {
+    "word": "Demonstratsioon",
+    "definition": "Avalik esitlemine või protestiaktsioon."
+  },
+  {
+    "word": "Dialoog",
+    "definition": "Vestlus kahe või enama inimese vahel."
+  },
+  {
+    "word": "Diameeter",
+    "definition": "Läbimõõt ringil või sfääril."
+  },
+  {
+    "word": "Differentseerima",
+    "definition": "Erinevusi välja tooma või eristama."
+  },
+  {
+    "word": "Digitaalne",
+    "definition": "Elektroonilisel kujul esitatud."
+  },
+  {
+    "word": "Diskussioon",
+    "definition": "Arutelu millegi üle."
+  },
+  {
+    "word": "Distants",
+    "definition": "Vahemaa kahe punkti või inimese vahel."
+  },
+  {
+    "word": "Dokumentatsioon",
+    "definition": "Kirjalike materjalide kogum."
+  },
+  {
+    "word": "Dramaatiline",
+    "definition": "Pingeline või tugevasti mõjus."
+  },
+  {
+    "word": "Duell",
+    "definition": "Kahevõitlus või vastasseis."
+  },
+  {
+    "word": "Egoism",
+    "definition": "Endakeskne käitumine ja mõtlemine."
+  },
+  {
+    "word": "Ekspert",
+    "definition": "Väga hea asjatundja."
+  },
+  {
+    "word": "Ekspertiis",
+    "definition": "Professionaalne hindamine või analüüs."
+  },
+  {
+    "word": "Eksperiment",
+    "definition": "Katse millegi uurimiseks."
+  },
+  {
+    "word": "Eksponeerima",
+    "definition": "Näitusel või avalikult esitlema."
+  },
+  {
+    "word": "Ekspressiivne",
+    "definition": "Tundeküllane või väljendusrikas."
+  },
+  {
+    "word": "Ekspress",
+    "definition": "Kiire teenus või transport."
+  },
+  {
+    "word": "Elementaarne",
+    "definition": "Väga põhiline või lihtne."
+  },
+  {
+    "word": "Elitaarne",
+    "definition": "Eliidile või kõrgklassile omane."
+  },
+  {
+    "word": "Empaatia",
+    "definition": "Võime mõista teise inimese tundeid."
+  },
+  {
+    "word": "Energeetika",
+    "definition": "Energia tootmise ja kasutamise valdkond."
+  },
+  {
+    "word": "Entusiast",
+    "definition": "Inimene, kes on millestki väga huvitatud."
+  },
+  {
+    "word": "Episood",
+    "definition": "Lühike sündmus suuremas loos."
+  },
+  {
+    "word": "Etaaplus",
+    "definition": "Aeglane ja sammuline edenemine."
+  },
+  {
+    "word": "Etikett",
+    "definition": "Käitumisreeglid või sildike tootel."
+  },
+  {
+    "word": "Evolutsioon",
+    "definition": "Aeglane areng või muutumine."
+  },
+  {
+    "word": "Fantaasia",
+    "definition": "Võime ette kujutada või välja mõelda."
+  },
+  {
+    "word": "Fassaad",
+    "definition": "Hoone esikülg või väline ilme."
+  },
+  {
+    "word": "Fauna",
+    "definition": "Loomastik mingis piirkonnas."
+  },
+  {
+    "word": "Fiktsioon",
+    "definition": "Väljamõeldis või mitte-tõeline lugu."
+  },
+  {
+    "word": "Filoloogia",
+    "definition": "Keelte ja kirjanduse teadus."
+  },
+  {
+    "word": "Füüsika",
+    "definition": "Teadus looduse liikumisest ja jõududest."
+  },
+  {
+    "word": "Galerii",
+    "definition": "Näitus või kunstiruum."
+  },
+  {
+    "word": "Geniaalne",
+    "definition": "Väga leidlik või erakordselt tark."
+  },
+  {
+    "word": "Geograafia",
+    "definition": "Teadus maa ja selle nähtuste kohta."
+  },
+  {
+    "word": "Gigantne",
+    "definition": "Väga suur või hiiglaslik."
+  },
+  {
+    "word": "Graafika",
+    "definition": "Joonistuste või visuaalide kunst."
+  },
+  {
+    "word": "Graatsia",
+    "definition": "Elegantsus ja kergus liikumises."
+  },
+  {
+    "word": "Hegemonia",
+    "definition": "Ülekaal või juhtiv seisund."
+  },
+  {
+    "word": "Hierarhia",
+    "definition": "Astmeteks jaotatud süsteem."
+  },
+  {
+    "word": "Hingestatus",
+    "definition": "Tundeküllasus või sisemine jõud."
+  },
+  {
+    "word": "Hüpotees",
+    "definition": "Oletus, mida kontrollida."
+  },
+  {
+    "word": "Hüsteeria",
+    "definition": "Tugev paanikareaktsioon või emotsioon."
+  },
+  {
+    "word": "Identiteet",
+    "definition": "Isiku või grupi eripära."
+  },
+  {
+    "word": "Ideaalne",
+    "definition": "Täiuslik või peaaegu veatu."
+  },
+  {
+    "word": "Ignorantne",
+    "definition": "Teadlikult teadmata jättev."
+  },
+  {
+    "word": "Ilming",
+    "definition": "Midagi, mis avaldub või nähtavaks saab."
+  },
+  {
+    "word": "Import",
+    "definition": "Kauba sissevedu teistest riikidest."
+  },
+  {
+    "word": "Induktsioon",
+    "definition": "Järeldamine üksiknäidetelt üldisele."
+  },
+  {
+    "word": "Intensiivne",
+    "definition": "Tugev või pingeline."
+  },
+  {
+    "word": "Intervall",
+    "definition": "Vahe kahe sündmuse või helikõrguse vahel."
+  },
+  {
+    "word": "Inventar",
+    "definition": "Vahendite ja esemete loetelu."
+  },
+  {
+    "word": "Ironia",
+    "definition": "Väljendusviis, kus öeldu tähendab vastupidist."
+  },
+  {
+    "word": "Jargon",
+    "definition": "Kitsale grupile omane erikeel."
+  },
+  {
+    "word": "Juveel",
+    "definition": "Vääriskivi või ehe."
+  },
+  {
+    "word": "Karma",
+    "definition": "Põhjus-tagajärg uskumus inimese tegudest."
+  },
+  {
+    "word": "Katastroof",
+    "definition": "Suure kahjuga õnnetus."
+  },
+  {
+    "word": "Klausel",
+    "definition": "Lepingutingimus või punkt."
+  },
+  {
+    "word": "Kollegium",
+    "definition": "Nõukogu või otsustajate rühm."
+  },
+  {
+    "word": "Kommentaar",
+    "definition": "Selgitav märkus või arvamus."
+  },
+  {
+    "word": "Kommunikatsioon",
+    "definition": "Teabevahetus inimeste vahel."
+  },
+  {
+    "word": "Konfidentsiaalne",
+    "definition": "Salajane või mitte avaldamiseks mõeldud."
+  },
+  {
+    "word": "Konflikt",
+    "definition": "Kokkupõrge või lahkheli."
+  },
+  {
+    "word": "Konsultatsioon",
+    "definition": "Nõustamine või arutelu."
+  },
+  {
+    "word": "Konvergentne",
+    "definition": "Ühte punkti koonduv."
+  },
+  {
+    "word": "Korporatiivne",
+    "definition": "Ettevõtte või organisatsiooniga seotud."
+  },
+  {
+    "word": "Krediit",
+    "definition": "Laen või usalduslik arveldus."
+  },
+  {
+    "word": "Kulminatsioon",
+    "definition": "Tipppunkt või kõige pingelisem hetk."
+  },
+  {
+    "word": "Liberaalne",
+    "definition": "Vabadust ja avatust toetav."
+  },
+  {
+    "word": "Mandariin",
+    "definition": "Tsitrusvili; ka Hiina kõrgametnik."
+  },
+  {
+    "word": "Manipulatsioon",
+    "definition": "Varjatud mõjutamine enda kasuks."
+  },
+  {
+    "word": "Massaž",
+    "definition": "Keha mudimine tervise või lõõgastuse eesmärgil."
+  },
+  {
+    "word": "Meedia",
+    "definition": "Avaliku teabe edastamise kanalid."
+  },
+  {
+    "word": "Metafor",
+    "definition": "Võrdlus ilma 'nagu' kasutamata."
+  },
+  {
+    "word": "Mineraal",
+    "definition": "Looduslik anorgaaniline aine."
+  },
+  {
+    "word": "Motivatsioon",
+    "definition": "Põhjus, mis paneb tegutsema."
+  },
+  {
+    "word": "Normatiiv",
+    "definition": "Reegel või standard."
+  },
+  {
+    "word": "Obstruktsioon",
+    "definition": "Tõkestamine või takistamine."
+  },
+  {
+    "word": "Operatiivne",
+    "definition": "Tõhus ja kiire tegutsemine."
   }
 ]
