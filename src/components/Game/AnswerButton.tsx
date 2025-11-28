@@ -9,12 +9,7 @@ interface AnswerButtonProps {
 }
 
 export const AnswerButton = ({ children, onClick, state = 'default', disabled }: AnswerButtonProps) => {
-    const variants = {
-        default: 'bg-white text-slate-700 hover:bg-indigo-50 hover:border-indigo-200 border-slate-200',
-        correct: 'bg-green-100 text-green-800 border-green-300 shadow-[0_0_20px_rgba(34,197,94,0.3)]',
-        incorrect: 'bg-red-100 text-red-800 border-red-300',
-        disabled: 'bg-slate-50 text-slate-400 border-slate-100 cursor-not-allowed',
-    };
+
 
     return (
         <motion.button
