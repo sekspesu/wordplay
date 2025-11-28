@@ -92,7 +92,7 @@ export const Game = () => {
     if (gameState.words.length === 0) return <div>Laen...</div>;
 
     return (
-        <div className="min-h-screen pb-24 md:pb-0 md:pt-24 px-4 flex flex-col items-center justify-center">
+        <div className="min-h-screen pb-24 pt-10 md:pb-0 md:pt-24 px-4 flex flex-col items-center justify-start md:justify-center">
             <div className="w-full max-w-md mb-6 flex justify-between items-center">
                 <div className="flex items-center gap-3">
                     <DailyGoalRing current={gameState.dailyProgress} total={gameState.dailyGoal} />
